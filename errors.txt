@@ -1,0 +1,50 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 12: expected statement.
+    slightleft = Position(xpos=0.3, xanchor='left')
+               ^
+
+File "game/script.rpy", line 13: expected statement.
+    left = Position(xpos=-0.2, xanchor='left')
+         ^
+
+File "game/script.rpy", line 14: expected statement.
+    thirdleft = Position(xpos=-0.33, xanchor='left')
+              ^
+
+File "game/script.rpy", line 15: expected statement.
+    halfleft = Position(xpos=-0.5, xanchor='left')
+             ^
+
+File "game/script.rpy", line 16: expected statement.
+    extremeleft = Position(xpos=-0.9, xanchor='left')
+                ^
+
+File "game/script.rpy", line 17: expected statement.
+    center = Position(xpos=0.5, xanchor='center')
+           ^
+
+File "game/script.rpy", line 18: expected statement.
+    slightright = Position(xpos=1.1, xanchor='right')
+                ^
+
+File "game/script.rpy", line 19: expected statement.
+    right = Position(xpos=1.2, xanchor='right')
+          ^
+
+File "game/script.rpy", line 20: expected statement.
+    thirdright = Position(xpos=1.33, xanchor='right')
+               ^
+
+File "game/script.rpy", line 21: expected statement.
+    halfright = Position(xpos=1.5, xanchor='right')
+              ^
+
+File "game/script.rpy", line 22: expected statement.
+    extremeright = Position(xpos=1.9, xanchor='right')
+                 ^
+
+Ren'Py Version: Ren'Py 8.1.1.23060707
+Thu Jun 15 21:06:33 2023
